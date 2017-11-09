@@ -4,5 +4,11 @@ test test
 testing new file
 >>>>>>> mytestbranch
 
+<<<<<<< HEAD
 
 testing the edited file
+=======
+add new file
+>>>>>>> sgu
+
+fk
